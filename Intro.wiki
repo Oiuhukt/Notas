@@ -1,0 +1,10 @@
+Pearl, J., & Mackenzie, D. (2019). _The book of why_. Penguin Books.
+
+------
+En la introducción al libro, Pearl expone el argumentop de la simetría de las ecuaciones de Russell. Este argumento nos dice que las ecuaciones que se utilizan en la ciencia son reversibles. Por ejemplo, la ecuación que describe cómo cambia la medida de un barómetro debido a la presión atmosférica es $B = kP$. Esta ecuación se puede escribir de diferentes maneras cuando despejamos por alguna de las variables. Debido a que las ecuaciones son reversibles, y no hay una forma privilegiada, no están describiendo causas. Por tanto, no es necesario integrar un concepto causal.  (p. 3-4)
+
+Sin embargo, sabemos que hay una relación causal. Esto sugiere entonces que las ecuaciones necesitan enriquecerse para poder capturar dicha estructura. 
+
+Pearl considera haber encontrado la manera de enriquecer dichas ecuaciones utilizando un nuevo lenguaje que sí apela a causas. Este lenguaje está constituído por grafos dirigidos y un lenguaje simbólico. Es en esta parte en la que expone de manera informal cómo funcionan las variables involucradas y como otras variables "escuchan" cambios entre ellas. Lo que relaciona su aproximación a la del [[intervencionismo]]. 
+
+El operador _Do_: $P(L|Do(D))$. Hay una diferencia entre esto y la simple probabilidad condicional $P(L|D)$. Por ejemplo, mientras que sabemos que la caída del barómetro se debe a la presión atmosférica, __hacer__ que el barometro baje no modifica la presión atmosférica. Otra aportación de la llamada "revolución causal" es el tratamiento de  [[enunciados contrafácticos]].

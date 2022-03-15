@@ -1,0 +1,37 @@
+### Pearl and Mackenzie _The Book of Whuy_ Penguin books
+
+------------
+
+- la tabla de Galton.
+
+- Regresión sobre la media.
+
+- Banear a la causalidad de la estadística.
+
+La regresión sobre la media no es una explicación que necesite un componente
+causal, sino que es algo que sucede sólo por el hecho de tener una muestra
+grande y el funcionamiento de la estadística. Marc Lange en:  Lange, Marc
+(2013). Really Statistical Explanations and Genetic Drift. _Philosophy of
+Science_ 80 (2):169-188, señala un putno parecido al mencionar que la deriva
+génica es análogo a la regresión sobre la media. Por lo regular, la deriva
+génica ayuda a explicar por qué una población se desvía de los valores
+esperados. Ambos coinciden en que la regresión sobre la media no es una
+explicación que apele a causas. El argumento que presenta Pearl es que la línea
+de regresión es asimétrica con respecto a con qué valor predecimos el otro.
+Esta simetría refleja que no hay involucrada una relación causa-efecto en la
+línea de regresión.
+
+Después de los hallazgos de Gaslton, Pearson comenzó a utilizarlos para
+aplicaciones en biología y ciencias sociales. PEarson creía que había que
+eliminar nuestro concepto de "causa" de las explicaciones científicas, ya que
+la correlación sí estaba matemáticamente definida. Sewall Wright al investigar
+a los cerdos de guinea, observó que aún cuando se trata de fijar el color de
+los cerdos para que sean totalmente blancos, continúan teniendo mancahs de
+colores. Esto llevó a Wright a tratar de ofrecer una explicación para este
+fenómeno. Para resolverlo, supuso que el desarrollo de los organismos
+influye en el color que presentan. Para saber la influencia tanto de la
+herencia como del desarrollo del organismo.   
+
+
+
+

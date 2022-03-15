@@ -1,0 +1,11 @@
+### Pearl, J., & Mackenzie, D. (2019). The book of why. Penguin Books.
+
+---------
+
+Pearl hace una crítica de los intentos por reducir conceptos causales a conceptos probabilísticos. Un intento de hacer esto fue desarrollado por Patrick Suppes. Suppes quería capturar la relación de causa de la siguiente manera: que $X$ cause $Y$ significa que $P(Y|X) > P(Y)$. Esto, sin embargo, tiene algunos problemas. No puede distinguir, por ejemplo, casos en los que ambas variables son afectadas por una causa común.
+
+Para resolver esto, Suppes apeló a "baackground factors". Esto lo que queire decir es que condicionamos la causa a ciertas condiciones y si la probabilidad de que $Y$ ocurra dado que ocurren tanto $X$ como los factores de fondo es mayor que la de $Y$ condicionada sólo a las factores de fondo, entonces decimos que $X$ causa $Y$. En fórmula $P(Y|X, K = k) > P(Y|K=k)$.
+
+Pero no es obvio qué debemos incluir en las condiciones de fondo. Cartwright propuso que lo que debíamos incluir en dicho conjunto fueran factores causalmente relevantes para la ocurrencia del fenómeno. Quebrando así la tesis reduccionista de Suppes. 
+
+

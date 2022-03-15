@@ -1,0 +1,19 @@
+@InCollection{sep-causation-mani,
+	author       =	{Woodward, James},
+	title        =	{{Causation and Manipulability}},
+	booktitle    =	{The {Stanford} Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta},
+	howpublished =	{\url{https://plato.stanford.edu/archives/win2016/entries/causation-mani/}},
+	year         =	{2016},
+	edition      =	{{W}inter 2016},
+	publisher    =	{Metaphysics Research Lab, Stanford University}
+}
+
+----------
+El [[intervencionismo]] es una postura sobre la naturaleza de la causalidad. Esta postura tiene algunas críticas. Una de las críticas que tiene esta tesis es que al hablar de una intervención en variables, intervención es de suyo un concepto causal.  Por lo que dicha teoría será circular. 
+
+Otro problema es que al hablar de intervención, implicamos que es algo que sólo los agentes pueden llevar a cabo. Volviéndose una tesis antropocentrista. 
+
+Por último, la noción de intervencionismo depende fuertemente de [[enunciados contrafácticos]]. El problema con esto es que las condiciones de verdad de un enunciado contraffáctico no son claras, o empíricamente verificables. Lo que hace que el intervencionismo no parezca tener una aplicación clara a las ciencias. 
+
+Cada uno de estos problemas tiene una respuesta por parte de los [[defensores del intervencionismo]]. 

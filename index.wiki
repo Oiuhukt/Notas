@@ -1,0 +1,12 @@
+# Índice de las notas
+
+## Notas causalidad
+  
+ - [[intervencionismo]]
+ 
+
+## The Bok of Why
+
+- [[Intro]]
+
+- [[cap-1]]

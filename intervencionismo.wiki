@@ -1,0 +1,21 @@
+
+@InCollection{sep-causation-mani,
+	author       =	{Woodward, James},
+	title        =	{{Causation and Manipulability}},
+	booktitle    =	{The {Stanford} Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta},
+	howpublished =	{\url{https://plato.stanford.edu/archives/win2016/entries/causation-mani/}},
+	year         =	{2016},
+	edition      =	{{W}inter 2016},
+	publisher    =	{Metaphysics Research Lab, Stanford University}
+}
+
+--------
+El intervencionismo es la tesis que afirma que la causalidad es una relación que hay entre dos variables $X$ y $Y$ . DE manera tal que si $X$ tiene un valor $x_1$  y lo modificamos para que tome un valor diferente, y en consecuencia cambia el valor de $Y$ a $y_1$  entonces $X$ y $Y$ están causalmente relacionados. La teoría intervecionista de Woodward define a una intervención como 
+
+-   (M1) $I$ must be the only cause of $X$; i.e., as with Pearl, the intervention must completely disrupt the causal relationship between $X$ and its previous causes so that the value of $X$ is set entirely by $I$,
+-   (M2) $I$ must not directly cause $Y$ via a route that does not go through $X$ as in the placebo example,
+-   (M3) $I$ should not itself be caused by any cause that affects $Y$ via a route that does not go through $X$, and
+-   (M4) $I$ leaves the values taken by any causes of $Y$ except those that are on the directed path from $I$ to $X$ to $Y$ (should this exist) unchanged.
+
+Sin embargo, el intervencionismo tiene algunos [[Problemas-intervencionismo]]

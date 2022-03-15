@@ -1,0 +1,17 @@
+@InCollection{sep-counterfactuals,
+	author       =	{Starr, William},
+	title        =	{{Counterfactuals}},
+	booktitle    =	{The {Stanford} Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta},
+	howpublished =	{\url{https://plato.stanford.edu/archives/sum2021/entries/counterfactuals/}},
+	year         =	{2021},
+	edition      =	{{S}ummer 2021},
+	publisher    =	{Metaphysics Research Lab, Stanford University}
+}
+
+----------
+Los enunciados contrafácticos son enunciados que describen cómo pudieron haber sido las cosas dadas algunas circunstancias. Por ejemplo: "si no hubiera estudiado filosofía, entonces habría estudiado biología". 
+
+Pearl en [[Pearl The book of.Intro]] menciona que los contrafácticos han sido poco estudiados en ciencia debido a que no parece haber ningún tipo de evidencia empírica que nos diga bajo qué condiciones son verdaderos dichos enunciados. (p.10). A pesar de ello, Pearl menciona que "Counterfactuals are the building blocks of moral behaviour as well as scientific thought. The ability to reflect on one's past actions and envision alternative scenarios is the basis of free will and social responsibility. The algorithmization of counterfactuals invites thinking machines to benefit from this ability and participate in this (until now) uniquely human way of thinking about the world" (p. 10).
+
+

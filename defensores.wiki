@@ -1,0 +1,19 @@
+@InCollection{sep-causation-mani,
+	author       =	{Woodward, James},
+	title        =	{{Causation and Manipulability}},
+	booktitle    =	{The {Stanford} Encyclopedia of Philosophy},
+	editor       =	{Edward N. Zalta},
+	howpublished =	{\url{https://plato.stanford.edu/archives/win2016/entries/causation-mani/}},
+	year         =	{2016},
+	edition      =	{{W}inter 2016},
+	publisher    =	{Metaphysics Research Lab, Stanford University}
+}
+
+-------
+Los defensores del [[intervencionismo.md]] afirman que la circularidad no es un problema porque al estudiar una relación causal entre variables nos interesa la relación de dichas variables, mientras que la intervención no está definida en términos de dicha relación, sino de una relación externa a la relación entre las variables. 
+
+Sobre el problema de que está definición de causalidad es antropocéntrica, la respuesta es que nada en la definición de intervención requiere de que haya seres humanos. En la naturaleza podemos observar relaciones entre variables, lo que a menudo se llaman "experimentos naturales".
+
+Sobre los [[enunciados contrafácticos]] hay un debate en torno a cómo debemos hacer claras las [[condiciones de verdad de dichos enunciados]]. Respecto a su uso en la teoría intervencionista, Woodward menciona que 
+
+Again, if we want to use this notion of an intervention to elucidate what it is for $X$ to cause $Y$ it is natural to move to a counterfactual formulation in the sense that what matters for whether $X$ causes $Y$ is what would happen to $Y$ if an intervention on $X$ of the sort described above were to occur. Following what has become an established usage I will call such counterfactuals, the antecedents of which correspond to claims about interventions (If $X$ were set to value $x$ under an intervention, then…) _interventionist counterfactuals_. These are the counterfactuals that (under some interpretation, perhaps not necessarily involving Pearl’s particular notion of an intervention) seem most suitable for formulating a manipulability theory of causation. (Woodward 2016)
